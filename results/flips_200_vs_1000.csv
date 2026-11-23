@@ -1,0 +1,104 @@
+qid,category,question,rank_200w,rank_1000w,only_200_correct,only_1000_correct
+Q001,fact,How much attendance do I need to be allowed to sit the end-semester exam?,1,1,False,False
+Q002,fact,How many times can I resit a course unit?,1,1,False,False
+Q003,fact,What is the best grade I can get if I repeat an exam?,3,3,False,False
+Q004,fact,I was sick on exam day. How long do I have to hand in my medical certificate?,2,1,False,True
+Q005,fact,How many years do I have at most to finish the three-year bachelor's degree?,16,2,False,False
+Q006,fact,What is the time limit for completing an honours degree?,7,2,False,False
+Q007,fact,What is the lowest passing grade for a core course unit?,1,1,False,False
+Q008,fact,What percentage of a theory course mark comes from the end semester exam?,5,2,False,False
+Q009,fact,How are practical course units weighted between coursework and the final practical exam?,8,4,False,False
+Q010,fact,"If I score under 40% in the practical part of a theory-with-practical course, can I still pass on the average?",2,6,False,False
+Q011,fact,In which language are the degree programmes taught?,4,2,False,False
+Q012,fact,When do I have to be at the exam venue before a paper begins?,4,2,False,False
+Q013,fact,How late can a candidate enter the examination hall?,2,3,False,False
+Q014,fact,Can I walk out of the exam in the last few minutes?,1,1,False,False
+Q015,fact,What documents must I carry into the exam hall to prove my identity?,1,1,False,False
+Q016,fact,What is the faculty's policy on copy and paste plagiarism?,1,1,False,False
+Q017,fact,Who am I allowed to contact about exam matters?,1,1,False,False
+Q018,fact,Can I give my answer script to the hall attendant to hand in?,1,1,False,False
+Q019,fact,Where must I write my index number?,1,1,False,False
+Q020,fact,What should I do with my rough work after the exam?,1,1,False,False
+Q021,fact,Is it permitted to find out the exam questions in advance?,6,1,False,True
+Q022,fact,When should I report to the medical officer if I cannot attend an exam due to illness?,1,1,False,False
+Q023,fact,What if I register for an exam but just do not turn up and have no medical certificate?,1,1,False,False
+Q024,fact,"If I ask for re-scrutiny of my marks, could my grade go down?",1,1,False,False
+Q025,fact,When does a degree officially take effect?,40,11,False,False
+Q026,fact,How many notional learning hours is one credit?,6,3,False,False
+Q027,fact,How many lecture hours make one credit in a theory course?,4,8,False,False
+Q028,fact,How long is a semester for the physical science programmes?,6,2,False,False
+Q029,fact,How long does the industrial training last for the computer science honours degree?,1,2,True,False
+Q030,fact,What do the digits in a course code mean?,1,1,False,False
+Q031,fact,Do the auxiliary course credits count toward my GPA?,2,1,False,True
+Q032,fact,How many weeks long are semesters in the Environmental Science programme?,1,2,True,False
+Q033,fact,How many credits are needed for the general degree in Environmental Science?,1,2,True,False
+Q034,fact,How long is the industrial training in Environmental Science and how many credits is it?,2,2,False,False
+Q035,fact,How many core and auxiliary credits must Environmental Science honours students earn?,14,2,False,False
+Q036,fact,What are the credit rules for electives in Level 4 Semester I of Environmental Science?,11,4,False,False
+Q037,fact,What happens to my in-course assessment marks if I resit the final exam?,1,1,False,False
+Q038,fact,Can I retake a missed in-course assessment after the final exam?,9,20,False,False
+Q039,fact,What O/L results are required for the IT degree?,2,3,False,False
+Q040,rule,What OGPA and time limit do I need for a First Class in the three-year BSc in Information Technology?,1,1,False,False
+Q041,rule,What OGPA is needed for Second Class Upper in the Honours Computer Science degree?,1,1,False,False
+Q042,rule,What are the requirements to be selected for Honours in Computer Science?,2,1,False,True
+Q043,rule,When do students apply for the Honours IT degree?,2,1,False,True
+Q044,rule,When do Computer Science honours aspirants apply?,2,1,False,True
+Q045,rule,What are the requirements for a Higher Diploma in Environmental Science?,1,1,False,False
+Q046,rule,How many core credits do I need for a Diploma in Environmental Science if I leave after Level 1?,2,1,False,True
+Q047,rule,What A/L results do I need for the Environmental Science degree?,18,1,False,True
+Q048,rule,Which A/L streams can apply for the BSc in IT?,1,1,False,False
+Q049,rule,Is there an aptitude test for the IT degree?,1,1,False,False
+Q050,rule,What does a student need to get the Honours degree in Information Technology?,11,2,False,False
+Q051,rule,What OGPA is needed for the general degree in Environmental Science?,4,1,False,True
+Q052,rule,How is Second Class Lower Division honours awarded in Environmental Science?,1,2,True,False
+Q053,rule,Which English grade is mandatory to complete an Environmental Science degree?,1,1,False,False
+Q054,rule,Who evaluates the proposal and conduct of the Environmental Science research project?,1,1,False,False
+Q055,rule,How are industrial training marks distributed in the Physical Science department?,7,3,False,False
+Q056,rule,How is a physical science research project graded?,23,2,False,False
+Q057,rule,How is a group project assessed?,1,1,False,False
+Q058,rule,What weight does the project report carry in the Environmental Science research project?,12,4,False,False
+Q059,rule,What percentage of industrial training marks is for the written report in Environmental Science?,1,2,True,False
+Q060,rule,What can I do if I am barred from the exam because of poor attendance?,1,1,False,False
+Q061,rule,Below which grade in English Language must I resit?,1,2,True,False
+Q062,rule,What grade do I get if I skip an exam without a valid reason?,1,1,False,False
+Q063,rule,"Can I improve a C- by resitting, and what if my new grade is lower?",1,1,False,False
+Q064,rule,How is the GPA computed?,1,1,False,False
+Q065,rule,How is the overall GPA calculated across levels?,1,1,False,False
+Q066,rule,Who displays the finalised grade of a course unit?,1,1,False,False
+Q067,rule,Who chairs the board that releases the semester results?,1,1,False,False
+Q068,table,Which marks range corresponds to grade A-?,1,1,False,False
+Q069,table,What grade point value is given for a B+?,1,1,False,False
+Q070,table,What grade do I get if I score 32 marks?,2,2,False,False
+Q071,table,What is the grade point for a C?,1,1,False,False
+Q072,table,What marks do I need to get an A+?,28,22,False,False
+Q073,table,How many credits is English Language I and in which semester is it taught in Environmental Science?,23,3,False,False
+Q074,table,How many theory and practical hours does Applied Hydrology and Water Resource Management have?,2,2,False,False
+Q075,table,How many theory hours is Soil Science?,1,1,False,False
+Q076,table,How many credits is Ecotourism?,5,3,False,False
+Q077,table,What abbreviation is used for Computer Science Honours course codes?,1,1,False,False
+Q078,syllabus,What is the prerequisite of Linear Algebra?,1,1,False,False
+Q079,syllabus,How many credits is the Software Engineering course IT2122?,1,1,False,False
+Q080,syllabus,Which textbooks are recommended for Software Engineering?,2,2,False,False
+Q081,syllabus,Which course teaches eigenvalues using the characteristic polynomial?,1,1,False,False
+Q082,syllabus,What can I do after the software engineering course regarding usability?,1,1,False,False
+Q083,syllabus,"What is the aim of the Food, Nutrition and Environment course?",1,1,False,False
+Q084,syllabus,"How many theory, practical and self-study hours does Food, Nutrition and Environment have?",1,1,False,False
+Q085,syllabus,Which topics does the Linear Algebra course cover under vector spaces?,1,1,False,False
+Q086,syllabus,Which course covers Gauss-Jordan inverse and LU factorization?,1,1,False,False
+Q087,syllabus,What software process topics are taught in Software Engineering?,1,5,True,False
+Q088,syllabus,Which course covers food fortification and food adulteration?,1,1,False,False
+Q089,syllabus,Which course outcome says to explain biochemical functions and metabolism of nutrition?,1,1,False,False
+Q090,facility,How many hostels does the university have and how many students can they hold?,1,1,False,False
+Q091,facility,Which financial assistance schemes can students apply for?,1,1,False,False
+Q092,facility,How many computers does the IT Centre have?,1,1,False,False
+Q093,facility,Which student societies exist in the faculty?,1,3,True,False
+Q094,facility,Can students get free medical treatment on campus?,1,1,False,False
+Q095,facility,Which gold medal is only for Environmental Science students?,1,1,False,False
+Q096,facility,When did the University of Vavuniya become a separate state university?,1,1,False,False
+Q097,facility,When was the Vavuniya Campus established?,1,1,False,False
+Q098,facility,What is the faculty's vision statement?,1,2,True,False
+Q099,facility,How far is the university from Vavuniya town?,1,2,True,False
+Q100,facility,Where can I get my admission card for exams?,1,2,True,False
+Q101,facility,What facilities exist for differently abled students?,1,1,False,False
+Q102,facility,Where is the library located?,1,2,True,False
+Q103,facility,What sports facilities are available?,1,1,False,False

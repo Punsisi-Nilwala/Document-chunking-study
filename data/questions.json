@@ -1,0 +1,848 @@
+[
+ {
+  "category": "fact",
+  "question": "How much attendance do I need to be allowed to sit the end-semester exam?",
+  "evidence": [
+   "minimum of 80% attendance is compulsory",
+   "80% of attendance is compulsory"
+  ],
+  "id": "Q001"
+ },
+ {
+  "category": "fact",
+  "question": "How many times can I resit a course unit?",
+  "evidence": [
+   "not be allowed to resit a course unit more than two times",
+   "not be allowed to resit a course unit or a component of a course unit more than two times"
+  ],
+  "id": "Q002"
+ },
+ {
+  "category": "fact",
+  "question": "What is the best grade I can get if I repeat an exam?",
+  "evidence": [
+   "the highest grade awarded to the candidate resitting the course unit is c",
+   "the highest grade that could be awarded for resitting a course unit is c"
+  ],
+  "id": "Q003"
+ },
+ {
+  "category": "fact",
+  "question": "I was sick on exam day. How long do I have to hand in my medical certificate?",
+  "evidence": [
+   "within 14 days from the last date of the examination",
+   "within 14 days of the conclusion of the examination"
+  ],
+  "id": "Q004"
+ },
+ {
+  "category": "fact",
+  "question": "How many years do I have at most to finish the three-year bachelor's degree?",
+  "evidence": [
+   "maximum duration for completing the three-year bachelors degree programme shall be five academic years"
+  ],
+  "id": "Q005"
+ },
+ {
+  "category": "fact",
+  "question": "What is the time limit for completing an honours degree?",
+  "evidence": [
+   "maximum duration for completing the honours degree programme shall be six academic years",
+   "maximum duration for completing the bachelor of science in honours in environmental science degree programme shall be six academic years"
+  ],
+  "id": "Q006"
+ },
+ {
+  "category": "fact",
+  "question": "What is the lowest passing grade for a core course unit?",
+  "evidence": [
+   "minimum grade to pass a core course unit is c-",
+   "minimum grade to pass a course unit will be c-"
+  ],
+  "id": "Q007"
+ },
+ {
+  "category": "fact",
+  "question": "What percentage of a theory course mark comes from the end semester exam?",
+  "evidence": [
+   "30% for in-course assessments and 70% for the end semester examination",
+   "t x 70% + a1 x 30%"
+  ],
+  "id": "Q008"
+ },
+ {
+  "category": "fact",
+  "question": "How are practical course units weighted between coursework and the final practical exam?",
+  "evidence": [
+   "40% for in-course assessments and 60% for the end semester examinations",
+   "40% for in-course assessment and 60% for the end-semester examination"
+  ],
+  "id": "Q009"
+ },
+ {
+  "category": "fact",
+  "question": "If I score under 40% in the practical part of a theory-with-practical course, can I still pass on the average?",
+  "evidence": [
+   "students obtaining less than 40% marks in either theory or practical will obtain e grade"
+  ],
+  "id": "Q010"
+ },
+ {
+  "category": "fact",
+  "question": "In which language are the degree programmes taught?",
+  "evidence": [
+   "medium of instruction shall be english",
+   "medium of the instruction shall be english"
+  ],
+  "id": "Q011"
+ },
+ {
+  "category": "fact",
+  "question": "When do I have to be at the exam venue before a paper begins?",
+  "evidence": [
+   "at least 15 minutes before the commencement of each paper"
+  ],
+  "id": "Q012"
+ },
+ {
+  "category": "fact",
+  "question": "How late can a candidate enter the examination hall?",
+  "evidence": [
+   "after the expiry of half an hour from the commencement of the examination"
+  ],
+  "id": "Q013"
+ },
+ {
+  "category": "fact",
+  "question": "Can I walk out of the exam in the last few minutes?",
+  "evidence": [
+   "during the last 15 minutes of the paper"
+  ],
+  "id": "Q014"
+ },
+ {
+  "category": "fact",
+  "question": "What documents must I carry into the exam hall to prove my identity?",
+  "evidence": [
+   "student record book and the admission card with him/her in the examination hall"
+  ],
+  "id": "Q015"
+ },
+ {
+  "category": "fact",
+  "question": "What is the faculty's policy on copy and paste plagiarism?",
+  "evidence": [
+   "zero tolerance policy when it deals with acts of plagiarism"
+  ],
+  "id": "Q016"
+ },
+ {
+  "category": "fact",
+  "question": "Who am I allowed to contact about exam matters?",
+  "evidence": [
+   "no candidate shall contact any person other than the vice chancellor or dean or deputy registrar/examinations"
+  ],
+  "id": "Q017"
+ },
+ {
+  "category": "fact",
+  "question": "Can I give my answer script to the hall attendant to hand in?",
+  "evidence": [
+   "on no account shall a candidate hand over his/her answer script to the attendant"
+  ],
+  "id": "Q018"
+ },
+ {
+  "category": "fact",
+  "question": "Where must I write my index number?",
+  "evidence": [
+   "enter his/her index number on the answer book and on every continuation paper"
+  ],
+  "id": "Q019"
+ },
+ {
+  "category": "fact",
+  "question": "What should I do with my rough work after the exam?",
+  "evidence": [
+   "shall be cancelled and attached to the answer script"
+  ],
+  "id": "Q020"
+ },
+ {
+  "category": "fact",
+  "question": "Is it permitted to find out the exam questions in advance?",
+  "evidence": [
+   "no candidate shall obtain or attempt to obtain prior knowledge of questions"
+  ],
+  "id": "Q021"
+ },
+ {
+  "category": "fact",
+  "question": "When should I report to the medical officer if I cannot attend an exam due to illness?",
+  "evidence": [
+   "at least half an hour before the commencement of the examination"
+  ],
+  "id": "Q022"
+ },
+ {
+  "category": "fact",
+  "question": "What if I register for an exam but just do not turn up and have no medical certificate?",
+  "evidence": [
+   "deemed to have sat an examination within the specified period unless he/she submits a medical certificate prior to the commencement of the examination"
+  ],
+  "id": "Q023"
+ },
+ {
+  "category": "fact",
+  "question": "If I ask for re-scrutiny of my marks, could my grade go down?",
+  "evidence": [
+   "should accept the final grade which may be higher, lower or no-change after the re-scrutinization"
+  ],
+  "id": "Q024"
+ },
+ {
+  "category": "fact",
+  "question": "When does a degree officially take effect?",
+  "evidence": [
+   "effective date of a degree programme for a student shall be the last date of final end-semester examination",
+   "effective date of the degree programmes of a student shall be the last date of the final end semester examination"
+  ],
+  "id": "Q025"
+ },
+ {
+  "category": "fact",
+  "question": "How many notional learning hours is one credit?",
+  "evidence": [
+   "one credit is considered to be 50 notional learning hours",
+   "one credit is considered equivalent to 50 notional learning hours"
+  ],
+  "id": "Q026"
+ },
+ {
+  "category": "fact",
+  "question": "How many lecture hours make one credit in a theory course?",
+  "evidence": [
+   "15 hours of lectures is considered as one credit"
+  ],
+  "id": "Q027"
+ },
+ {
+  "category": "fact",
+  "question": "How long is a semester for the physical science programmes?",
+  "evidence": [
+   "the duration of a semester is sixteen weeks"
+  ],
+  "id": "Q028"
+ },
+ {
+  "category": "fact",
+  "question": "How long does the industrial training last for the computer science honours degree?",
+  "evidence": [
+   "period of 4-6 months which amounts to 600 notional hours (6 credits)"
+  ],
+  "id": "Q029"
+ },
+ {
+  "category": "fact",
+  "question": "What do the digits in a course code mean?",
+  "evidence": [
+   "the first digit denotes the level/year of study"
+  ],
+  "id": "Q030"
+ },
+ {
+  "category": "fact",
+  "question": "Do the auxiliary course credits count toward my GPA?",
+  "evidence": [
+   "credits of the auxiliary course units are not taken for the computation of the grade point average",
+   "credits of the auxiliary course units are not taken for the computation of the gpa"
+  ],
+  "id": "Q031"
+ },
+ {
+  "category": "fact",
+  "question": "How many weeks long are semesters in the Environmental Science programme?",
+  "evidence": [
+   "each with 15 weeks duration"
+  ],
+  "id": "Q032"
+ },
+ {
+  "category": "fact",
+  "question": "How many credits are needed for the general degree in Environmental Science?",
+  "evidence": [
+   "minimum of 90 credits of core course units and 14 credits of auxiliary course units during three years of study"
+  ],
+  "id": "Q033"
+ },
+ {
+  "category": "fact",
+  "question": "How long is the industrial training in Environmental Science and how many credits is it?",
+  "evidence": [
+   "two months full-time considered as one credit"
+  ],
+  "id": "Q034"
+ },
+ {
+  "category": "fact",
+  "question": "How many core and auxiliary credits must Environmental Science honours students earn?",
+  "evidence": [
+   "minimum volume of learning of 120 credits of core course units and 14 credits of auxiliary course units"
+  ],
+  "id": "Q035"
+ },
+ {
+  "category": "fact",
+  "question": "What are the credit rules for electives in Level 4 Semester I of Environmental Science?",
+  "evidence": [
+   "12 credits out of 17 credits"
+  ],
+  "id": "Q036"
+ },
+ {
+  "category": "fact",
+  "question": "What happens to my in-course assessment marks if I resit the final exam?",
+  "evidence": [
+   "at their first attempt is used to determine the final grade for that course unit",
+   "at their first attempt is used to determine the grade for that course unit or component"
+  ],
+  "id": "Q037"
+ },
+ {
+  "category": "fact",
+  "question": "Can I retake a missed in-course assessment after the final exam?",
+  "evidence": [
+   "no such opportunity shall be given after the completion of the end-semester examination",
+   "no such opportunity shall be given after the completion of the end semester examination"
+  ],
+  "id": "Q038"
+ },
+ {
+  "category": "fact",
+  "question": "What O/L results are required for the IT degree?",
+  "evidence": [
+   "have at least a credit pass (c) in english at the g.c.e. (o/l) examination"
+  ],
+  "id": "Q039"
+ },
+ {
+  "category": "rule",
+  "question": "What OGPA and time limit do I need for a First Class in the three-year BSc in Information Technology?",
+  "evidence": [
+   "a. is eligible for bachelor of science in information technology degree, b. obtains minimum ogpa of 3.70, and c. completes the relevant requirements within three academic years"
+  ],
+  "id": "Q040"
+ },
+ {
+  "category": "rule",
+  "question": "What OGPA is needed for Second Class Upper in the Honours Computer Science degree?",
+  "evidence": [
+   "is eligible for bachelor of science in honours computer science degree, b. obtains minimum ogpa of 3.30"
+  ],
+  "id": "Q041"
+ },
+ {
+  "category": "rule",
+  "question": "What are the requirements to be selected for Honours in Computer Science?",
+  "evidence": [
+   "obtaining an overall grade point average (ogpa) of not less than 3.00 for the course units offered in level 1 and level 2"
+  ],
+  "id": "Q042"
+ },
+ {
+  "category": "rule",
+  "question": "When do students apply for the Honours IT degree?",
+  "evidence": [
+   "at the end of level 3, the students are required to apply for the honours degree programme"
+  ],
+  "id": "Q043"
+ },
+ {
+  "category": "rule",
+  "question": "When do Computer Science honours aspirants apply?",
+  "evidence": [
+   "required to apply after the completion of level 2"
+  ],
+  "id": "Q044"
+ },
+ {
+  "category": "rule",
+  "question": "What are the requirements for a Higher Diploma in Environmental Science?",
+  "evidence": [
+   "successfully completed minimum 60 credits core course units in level 1 and level 2"
+  ],
+  "id": "Q045"
+ },
+ {
+  "category": "rule",
+  "question": "How many core credits do I need for a Diploma in Environmental Science if I leave after Level 1?",
+  "evidence": [
+   "completed 30 credits of core course units in level 1 of the study programme"
+  ],
+  "id": "Q046"
+ },
+ {
+  "category": "rule",
+  "question": "What A/L results do I need for the Environmental Science degree?",
+  "evidence": [
+   "at least s grades in biology, chemistry"
+  ],
+  "id": "Q047"
+ },
+ {
+  "category": "rule",
+  "question": "Which A/L streams can apply for the BSc in IT?",
+  "evidence": [
+   "students from all the gce advanced level streams are eligible to apply for this degree programme"
+  ],
+  "id": "Q048"
+ },
+ {
+  "category": "rule",
+  "question": "Is there an aptitude test for the IT degree?",
+  "evidence": [
+   "pass the aptitude test as decided by the university of vavuniya"
+  ],
+  "id": "Q049"
+ },
+ {
+  "category": "rule",
+  "question": "What does a student need to get the Honours degree in Information Technology?",
+  "evidence": [
+   "above for the core and elective course units of 120 credits offered in level 1, level 2, level 3, and level 4"
+  ],
+  "id": "Q050"
+ },
+ {
+  "category": "rule",
+  "question": "What OGPA is needed for the general degree in Environmental Science?",
+  "evidence": [
+   "obtained a minimum ogpa of 2.00 in level 1, 2 and 3"
+  ],
+  "id": "Q051"
+ },
+ {
+  "category": "rule",
+  "question": "How is Second Class Lower Division honours awarded in Environmental Science?",
+  "evidence": [
+   "obtains minimum ogpa of 3.00, and c. completes the relevant requirement within four academic years"
+  ],
+  "id": "Q052"
+ },
+ {
+  "category": "rule",
+  "question": "Which English grade is mandatory to complete an Environmental Science degree?",
+  "evidence": [
+   "grade c or above in the auxiliary course units english language i and english language ii, and grade d+ or above in the other auxiliary course units are mandatory"
+  ],
+  "id": "Q053"
+ },
+ {
+  "category": "rule",
+  "question": "Who evaluates the proposal and conduct of the Environmental Science research project?",
+  "evidence": [
+   "project proposal and conduct of the project will be evaluated by the supervisor (30%)"
+  ],
+  "id": "Q054"
+ },
+ {
+  "category": "rule",
+  "question": "How are industrial training marks distributed in the Physical Science department?",
+  "evidence": [
+   "daily diary 30% final report 40% oral presentation 30%"
+  ],
+  "id": "Q055"
+ },
+ {
+  "category": "rule",
+  "question": "How is a physical science research project graded?",
+  "evidence": [
+   "project report 50% oral presentation 25% viva-voce 25%"
+  ],
+  "id": "Q056"
+ },
+ {
+  "category": "rule",
+  "question": "How is a group project assessed?",
+  "evidence": [
+   "final report 40% oral presentation 30% viva-voce 30%"
+  ],
+  "id": "Q057"
+ },
+ {
+  "category": "rule",
+  "question": "What weight does the project report carry in the Environmental Science research project?",
+  "evidence": [
+   "c. project report/thesis 40%"
+  ],
+  "id": "Q058"
+ },
+ {
+  "category": "rule",
+  "question": "What percentage of industrial training marks is for the written report in Environmental Science?",
+  "evidence": [
+   "h. preparation of report (training course report) 30%"
+  ],
+  "id": "Q059"
+ },
+ {
+  "category": "rule",
+  "question": "What can I do if I am barred from the exam because of poor attendance?",
+  "evidence": [
+   "may resit the course with the approval of the faculty board",
+   "may resit the course unit with the approval of the faculty board"
+  ],
+  "id": "Q060"
+ },
+ {
+  "category": "rule",
+  "question": "Below which grade in English Language must I resit?",
+  "evidence": [
+   "english language i and ii with grade below c"
+  ],
+  "id": "Q061"
+ },
+ {
+  "category": "rule",
+  "question": "What grade do I get if I skip an exam without a valid reason?",
+  "evidence": [
+   "will be given the grade e for the end of course examination of that course unit",
+   "will be given grade e for the end-semester examination of that course unit"
+  ],
+  "id": "Q062"
+ },
+ {
+  "category": "rule",
+  "question": "Can I improve a C- by resitting, and what if my new grade is lower?",
+  "evidence": [
+   "he/she is entitled to keep the previous grade"
+  ],
+  "id": "Q063"
+ },
+ {
+  "category": "rule",
+  "question": "How is the GPA computed?",
+  "evidence": [
+   "credit-weighted arithmetic mean of the grade point"
+  ],
+  "id": "Q064"
+ },
+ {
+  "category": "rule",
+  "question": "How is the overall GPA calculated across levels?",
+  "evidence": [
+   "credit weighted mean giving equal weight for all levels"
+  ],
+  "id": "Q065"
+ },
+ {
+  "category": "rule",
+  "question": "Who displays the finalised grade of a course unit?",
+  "evidence": [
+   "displayed by the dean of the faculty",
+   "displayed on the notice board by the dean of the faculty"
+  ],
+  "id": "Q066"
+ },
+ {
+  "category": "rule",
+  "question": "Who chairs the board that releases the semester results?",
+  "evidence": [
+   "examination board chaired by the vice-chancellor"
+  ],
+  "id": "Q067"
+ },
+ {
+  "category": "table",
+  "question": "Which marks range corresponds to grade A-?",
+  "evidence": [
+   "70-74 a- 3.7",
+   "70 - 74 a- 3.7"
+  ],
+  "id": "Q068"
+ },
+ {
+  "category": "table",
+  "question": "What grade point value is given for a B+?",
+  "evidence": [
+   "65-69 b+ 3.3",
+   "65 - 69 b+ 3.3"
+  ],
+  "id": "Q069"
+ },
+ {
+  "category": "table",
+  "question": "What grade do I get if I score 32 marks?",
+  "evidence": [
+   "30-34 d 1.0",
+   "30 - 34 d 1.0"
+  ],
+  "id": "Q070"
+ },
+ {
+  "category": "table",
+  "question": "What is the grade point for a C?",
+  "evidence": [
+   "45-49 c 2.0",
+   "45 - 49 c 2.0"
+  ],
+  "id": "Q071"
+ },
+ {
+  "category": "table",
+  "question": "What marks do I need to get an A+?",
+  "evidence": [
+   "80-100 a+ 4.0",
+   "80 - 100 a+ 4.0"
+  ],
+  "id": "Q072"
+ },
+ {
+  "category": "table",
+  "question": "How many credits is English Language I and in which semester is it taught in Environmental Science?",
+  "evidence": [
+   "english language i level 1 semester i 3"
+  ],
+  "id": "Q073"
+ },
+ {
+  "category": "table",
+  "question": "How many theory and practical hours does Applied Hydrology and Water Resource Management have?",
+  "evidence": [
+   "ens2213 applied hydrology and water resource management 3 40 15"
+  ],
+  "id": "Q074"
+ },
+ {
+  "category": "table",
+  "question": "How many theory hours is Soil Science?",
+  "evidence": [
+   "ens1223 soil science 3 30 45"
+  ],
+  "id": "Q075"
+ },
+ {
+  "category": "table",
+  "question": "How many credits is Ecotourism?",
+  "evidence": [
+   "ens2252 ecotourism 2 20 30"
+  ],
+  "id": "Q076"
+ },
+ {
+  "category": "table",
+  "question": "What abbreviation is used for Computer Science Honours course codes?",
+  "evidence": [
+   "computer science honours csh"
+  ],
+  "id": "Q077"
+ },
+ {
+  "category": "syllabus",
+  "question": "What is the prerequisite of Linear Algebra?",
+  "evidence": [
+   "linear algebra credit value 03 (45h theory + 105h independent learning) prerequisites pma1113"
+  ],
+  "id": "Q078"
+ },
+ {
+  "category": "syllabus",
+  "question": "How many credits is the Software Engineering course IT2122?",
+  "evidence": [
+   "it2122 credit value 2 (30h theory + 70h independent learning)"
+  ],
+  "id": "Q079"
+ },
+ {
+  "category": "syllabus",
+  "question": "Which textbooks are recommended for Software Engineering?",
+  "evidence": [
+   "i. sommerville, software engineering, pearson"
+  ],
+  "id": "Q080"
+ },
+ {
+  "category": "syllabus",
+  "question": "Which course teaches eigenvalues using the characteristic polynomial?",
+  "evidence": [
+   "determine eigenvalues and eigenvectors of a square matrix using the characteristic polynomial"
+  ],
+  "id": "Q081"
+ },
+ {
+  "category": "syllabus",
+  "question": "What can I do after the software engineering course regarding usability?",
+  "evidence": [
+   "evaluate the usability of developed software"
+  ],
+  "id": "Q082"
+ },
+ {
+  "category": "syllabus",
+  "question": "What is the aim of the Food, Nutrition and Environment course?",
+  "evidence": [
+   "to provide knowledge to understand proper diet pattern and nutrition to build up healthy community"
+  ],
+  "id": "Q083"
+ },
+ {
+  "category": "syllabus",
+  "question": "How many theory, practical and self-study hours does Food, Nutrition and Environment have?",
+  "evidence": [
+   "ens2123 credit value 3 (40h theory+15h practical+105h independent learning)"
+  ],
+  "id": "Q084"
+ },
+ {
+  "category": "syllabus",
+  "question": "Which topics does the Linear Algebra course cover under vector spaces?",
+  "evidence": [
+   "vector spaces: definition of vector spaces, subspaces, subspace criterion"
+  ],
+  "id": "Q085"
+ },
+ {
+  "category": "syllabus",
+  "question": "Which course covers Gauss-Jordan inverse and LU factorization?",
+  "evidence": [
+   "inverse of a matrix, finding the inverse of a matrix by gauss-jordan elimination, lu factorization"
+  ],
+  "id": "Q086"
+ },
+ {
+  "category": "syllabus",
+  "question": "What software process topics are taught in Software Engineering?",
+  "evidence": [
+   "introduction: software processes, software life cycle models"
+  ],
+  "id": "Q087"
+ },
+ {
+  "category": "syllabus",
+  "question": "Which course covers food fortification and food adulteration?",
+  "evidence": [
+   "food fortification, food adulteration"
+  ],
+  "id": "Q088"
+ },
+ {
+  "category": "syllabus",
+  "question": "Which course outcome says to explain biochemical functions and metabolism of nutrition?",
+  "evidence": [
+   "explain the biochemical functions and metabolism of nutrition"
+  ],
+  "id": "Q089"
+ },
+ {
+  "category": "facility",
+  "question": "How many hostels does the university have and how many students can they hold?",
+  "evidence": [
+   "four hostels in order to accommodate 1000 students"
+  ],
+  "id": "Q090"
+ },
+ {
+  "category": "facility",
+  "question": "Which financial assistance schemes can students apply for?",
+  "evidence": [
+   "mahapola scheme"
+  ],
+  "id": "Q091"
+ },
+ {
+  "category": "facility",
+  "question": "How many computers does the IT Centre have?",
+  "evidence": [
+   "there are 50 computers available with internet facilities"
+  ],
+  "id": "Q092"
+ },
+ {
+  "category": "facility",
+  "question": "Which student societies exist in the faculty?",
+  "evidence": [
+   "ensoc, itcs, and ieee student branch"
+  ],
+  "id": "Q093"
+ },
+ {
+  "category": "facility",
+  "question": "Can students get free medical treatment on campus?",
+  "evidence": [
+   "entitled for free consultations and medicine from the health centre"
+  ],
+  "id": "Q094"
+ },
+ {
+  "category": "facility",
+  "question": "Which gold medal is only for Environmental Science students?",
+  "evidence": [
+   "only for environmental science students"
+  ],
+  "id": "Q095"
+ },
+ {
+  "category": "facility",
+  "question": "When did the University of Vavuniya become a separate state university?",
+  "evidence": [
+   "became the 17th state university in sri lanka"
+  ],
+  "id": "Q096"
+ },
+ {
+  "category": "facility",
+  "question": "When was the Vavuniya Campus established?",
+  "evidence": [
+   "established on 1st april 1997"
+  ],
+  "id": "Q097"
+ },
+ {
+  "category": "facility",
+  "question": "What is the faculty's vision statement?",
+  "evidence": [
+   "to be the centre of excellence in the provision of technologically advanced and appropriate applied science education"
+  ],
+  "id": "Q098"
+ },
+ {
+  "category": "facility",
+  "question": "How far is the university from Vavuniya town?",
+  "evidence": [
+   "about ten kilometres away from vavuniya"
+  ],
+  "id": "Q099"
+ },
+ {
+  "category": "facility",
+  "question": "Where can I get my admission card for exams?",
+  "evidence": [
+   "issuing identity card, admission card for end semester examination"
+  ],
+  "id": "Q100"
+ },
+ {
+  "category": "facility",
+  "question": "What facilities exist for differently abled students?",
+  "evidence": [
+   "the faculty has the ramp facility in the laboratories"
+  ],
+  "id": "Q101"
+ },
+ {
+  "category": "facility",
+  "question": "Where is the library located?",
+  "evidence": [
+   "it is situated in the park road premises and pampaimadu premises"
+  ],
+  "id": "Q102"
+ },
+ {
+  "category": "facility",
+  "question": "What sports facilities are available?",
+  "evidence": [
+   "indoor stadium with badminton court"
+  ],
+  "id": "Q103"
+ }
+]
